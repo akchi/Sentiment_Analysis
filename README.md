@@ -1,10 +1,15 @@
-# Sentiment_Analysis
+# Sentiment Analysis
 Supervised classification of textual reviews based on its sentiment into one of the five polarities:
 1. Strong negative
 2. Weak negative
 3. Neutral
 4. Weak Positive
 5. Strong Positive
+
+## Methodology
+<ol>
+	<li> Text Pre-processing </li>
+</ol>
 
 Datasets:
 
