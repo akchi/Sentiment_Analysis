@@ -12,13 +12,13 @@ Datasets:
 
 	The training set consists of 650,000 product reviews. 
 
-2.	train_label.csv::
+2.	train_label.csv:
 
 	This dataset contains the sentiment lables of the training dataset. The label set 
 	(1,2,3,4,5) refer to five polarity levels (strong negative, weak negative, neutral, 
 	weak positive, strong and positive) respectively.
 
-3.	test_data.csv::
+3.	test_data.csv:
 
 	The test set consists of 50,000 product reviews. 
 
