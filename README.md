@@ -8,7 +8,22 @@ Supervised classification of textual reviews based on its sentiment into one of 
 
 ## Methodology
 <ol>
-	<li> Text Pre-processing </li>
+	<li> <b>Text Pre-processing</b>: The raw data was processed to convert it into a format that can be used for further processing. The following steps were applied:
+		<ul>
+			<li>Case normalisation</li>
+			<li>Tokenisation</li>
+			<li>Lemmitization</li>
+		</ul>
+	</li>
+	<li> <b>Feature Generation</b>: Once the data was cleansed, relevant features were extracted from the it such as:
+		<ul>
+			<li> Creation of N-grams</li>
+			<li> Term and inverse document frequency</li>
+		</ul>
+	</li>
+	<li>Model </li>
+		
+	
 </ol>
 
 Datasets:
