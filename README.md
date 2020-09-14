@@ -21,12 +21,11 @@ Supervised classification of textual reviews based on its sentiment into one of 
 			<li> Term and inverse document frequency</li>
 		</ul>
 	</li>
-	<li>Model </li>
+	<li> <b>Model</b> : Logistic regression is the classifier to used for identifying the polarity of a review.</li>
 		
-	
 </ol>
 
-Datasets:
+<b>Datasets:</b>
 
 1.	train_data.csv:
 
